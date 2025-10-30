@@ -2,7 +2,8 @@
 
 一个功能强大的图片批量处理工具，支持多种图片处理效果，包括基础调整、高级滤镜、几何变换等功能，特别适用于图片去重和批量处理场景。
 
-![1761833511875](C:\Users\lijie\AppData\Roaming\Typora\typora-user-images\1761833511875.png)
+<img width="1418" height="946" alt="6e0f2151c664a4c24b20901afc4eec3d" src="https://github.com/user-attachments/assets/087788b0-9820-43c2-99cc-2043cceef600" />
+
 
 ## 功能特性
 

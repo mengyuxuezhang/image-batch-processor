@@ -2,6 +2,8 @@
 
 一个功能强大的图片批量处理工具，支持多种图片处理效果，包括基础调整、高级滤镜、几何变换等功能，特别适用于图片去重和批量处理场景。
 
+![1761833511875](C:\Users\lijie\AppData\Roaming\Typora\typora-user-images\1761833511875.png)
+
 ## 功能特性
 
 ### 基础功能
@@ -183,7 +185,7 @@ python build_preview_gui.py
 
 如有问题或建议，请通过以下方式联系：
 - 提交Issue：[GitHub Issues](link-to-issues)
-- 邮箱：[your-email@example.com]
+- 邮箱：[mengyuxuezhang@163.com]
 
 ## 更新日志
 
